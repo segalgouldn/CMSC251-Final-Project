@@ -6,8 +6,8 @@ Acquisition of all Tweets for all known Twitter accounts for each member of the 
 
 ### To Do:
 * Check the CSV files.
-..* Do they all contain Tweets?
-..* Text cleaning.
+...Do they all contain Tweets?
+...Text cleaning.
 * Train and tune the classifier.
 * Create a web application using Flask?
 
